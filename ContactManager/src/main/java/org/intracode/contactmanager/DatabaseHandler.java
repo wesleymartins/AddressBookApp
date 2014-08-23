@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Johnny Manson on 19.01.14.
+ * Created by Wesley Martins on 19.01.14.
  */
 public class DatabaseHandler extends SQLiteOpenHelper {
 
